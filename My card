@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Moja kartica</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="card">
+    <img src="https://via.placeholder.com/300x150" alt="Primer slike" class="card-img" />
+    <div class="card-content">
+      <h3 class="card-title">Naslov kartice</h3>
+      <p class="card-text">To je primer kartice na GitHub Pages.</p>
+      <a href="#" class="card-btn">Preberi več</a>
+    </div>
+  </div>
+</body>
+</html>
